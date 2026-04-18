@@ -2,75 +2,73 @@
 
 ## 📊 Interactive Excel Dashboard | Data Analysis Project
 
-This project showcases an **interactive Excel dashboard** built for Blinkit – *India’s Last Minute App*.  
-The dashboard provides meaningful insights using **KPIs, charts, and dynamic filters** to support data-driven decisions.
+This project presents an **interactive Excel dashboard** built for Blinkit – *India’s Last Minute App*.  
+It provides key business insights using **KPIs, charts, and a dynamic filter panel**.
 
 ---
 
-## 🔍 Dashboard Preview (Click to Open Excel File)
+## 🔍 Dashboard Preview (Click Image to Open Excel)
 
-[![Blinkit Dashboard](blinkit_dashboard.png)](Blinkit%20Grocery%20Data%20Analysis.xlsx)
+<a href="Blinkit%20Grocery%20Data%20Analysis.xlsx">
+  <img src="blinkit_dashboard.png" alt="Blinkit Dashboard" width="100%">
+</a>
 
 ---
 
 ## 🚀 Key Features
 
-- 🎛️ **Filter Panel**
-  - Outlet Size (High, Medium, Small)
-  - Outlet Location (Tier 1, Tier 2, Tier 3)
-  - Item Type Filtering
+### 🎛️ Filter Panel
+- Outlet Size (High, Medium, Small)
+- Outlet Location (Tier 1, Tier 2, Tier 3)
+- Item Type Filtering
 
-- 📈 **KPI Metrics**
-  - Total Sales
-  - Average Sales
-  - Number of Items
-  - Average Rating
+### 📈 KPI Metrics
+- Total Sales
+- Average Sales
+- Number of Items
+- Average Rating
 
-- 📊 **Visual Insights**
-  - Sales Trend (Outlet Establishment)
-  - Fat Content Analysis
-  - Item Type Performance
-  - Outlet Size Distribution
-  - Outlet Location Comparison
-  - Outlet Type Analysis
+### 📊 Visual Insights
+- Sales Trend Analysis (Outlet Establishment)
+- Fat Content Distribution
+- Item Type Performance
+- Outlet Size & Location Comparison
+- Outlet Type Analysis
 
-- ⚡ **Dynamic Dashboard**
-  - Real-time updates based on filter selection
+### ⚡ Dynamic Dashboard
+- Updates instantly based on filter selection
 
 ---
 
-## 🧠 Dataset Information
+## 🧠 Dataset
 
-The Excel file includes a **Dataset Sheet**, which contains:
-
+The Excel file contains a **Dataset Sheet** including:
 - Outlet Details  
-- Item Categories  
-- Fat Content  
+- Item Types  
 - Sales Data  
 - Ratings  
-- Establishment Year  
+- Fat Content  
 
-📌 Inside the Excel file, there is a **"Dataset" button**  
-👉 Click it to directly access the raw dataset sheet
+📌 A **"Dataset Button"** is also provided inside Excel  
+👉 Click it to directly open the dataset sheet
 
 ---
 
 ## 🛠️ How to Use
 
-1. Download or clone this repository  
+1. Download or clone the repository  
 2. Click on the dashboard image above  
-3. Open the Excel (.xlsx) file  
-4. Use the **Filter Panel** to explore insights  
-5. Click on the **Dataset button** to view raw data  
+3. Open the Excel file  
+4. Use the **Filter Panel** for analysis  
+5. Click **Dataset Button** to view raw data  
 
 ---
 
-## 📌 Tools Used
+## 🛠️ Tools Used
 
 - Microsoft Excel  
 - Pivot Tables  
-- Charts & Visualization  
-- Data Cleaning  
+- Data Visualization  
 
 ---
 
