@@ -6,14 +6,14 @@ This project presents an interactive **Excel-based dashboard** analyzing sales d
 
 ## 📸 Dashboard Preview
 
-![Blinkit Analysis](Blinkit%20Analysis.png)
+![Blinkit Analysis](https://raw.githubusercontent.com/xadique/Blinkit-Grocery-Sales-Dashboard/f42d05e9f10db494187b7726e4877cacb53c03b4/blinkit%20excel%20.png)
 
 ---
 
 ## 📁 Project Files
 
 - `BlinkIT Grocery Data Excel.xlsx` – Final Excel dashboard with slicers, charts, and analysis.
-- `Blinkit Analysis.png` – Screenshot of the dashboard for quick reference.
+- `blinkit excel .png` – Screenshot of the dashboard for quick reference.
 
 ---
 
