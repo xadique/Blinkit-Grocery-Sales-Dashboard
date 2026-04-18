@@ -6,9 +6,9 @@ This project presents an interactive Excel dashboard built for Blinkit – India
 
 ---
 
-## 🔍 Dashboard Preview (Click Image to Open Excel)
+## 🔍 Dashboard Preview
 
-[![Blinkit Dashboard](./blinkit_dashboard.png)](./Blinkit%20Grocery%20Data%20Analysis.xlsx)
+![Blinkit Dashboard](./blinkit_dashboard.png)
 
 ---
 
